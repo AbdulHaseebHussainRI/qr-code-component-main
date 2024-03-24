@@ -17,5 +17,5 @@ I've kept things simple in the HTML and CSS, making only necessary tweaks to rea
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/AbdulHaseebHussainRI/qr-code-component-main)
+- [Live Site URL](https://abdulhaseebhussainri.github.io/qr-code-component-main/)
